@@ -21,3 +21,14 @@ Mi configuración de ohmyzsh
       plugins=(git z sudo themes)
   ```
 
+- Instalar zsh-syntax-highlighting <https://github.com/zsh-users/zsh-syntax-highlighting>
+
+  ```shell 
+      git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-syntax-highlighting
+  ```
+- Añadir plugins en ~/.zshrc
+
+  ```
+      plugins=(git z sudo themes zsh-syntax-highlighting)
+  ```
+
