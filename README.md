@@ -18,7 +18,7 @@ Mi configuración de ohmyzsh
     ZSH_THEME="af-magic"
     ZSH_THEME="agnoster"
 ```
-
+- Si quieres usar el tema agnoster, istalar las fuentes Meslo Dotted (Meslo LG L...) de <https://github.com/powerline/fonts>
 - Añadir básicos **plugins** en ~/.zshrc <https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins>
 
 _Info sobre atajos git en:_ <https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/git>
