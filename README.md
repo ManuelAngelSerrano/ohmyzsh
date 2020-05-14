@@ -32,15 +32,15 @@ _Info sobre atajos git en:_ <https://github.com/ohmyzsh/ohmyzsh/tree/master/plug
 
 - Instalar:
 
-   zsh-syntax-highlighting <https://github.com/zsh-users/zsh-syntax-highlighting>
+**zsh-syntax-highlighting** <https://github.com/zsh-users/zsh-syntax-highlighting>
 
-   Instalar zsh-autosuggestions <https://github.com/zsh-users/zsh-autosuggestions>
+**Instalar zsh-autosuggestions** <https://github.com/zsh-users/zsh-autosuggestions>
 
 ```shell 
     git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-syntax-highlighting
     git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions
 ```
-    git-flow-avh <https://github.com/petervanderdoes/gitflow-avh>
+**git-flow-avh** <https://github.com/petervanderdoes/gitflow-avh>
 
 ```shell 
 brew install git-flow-avh
