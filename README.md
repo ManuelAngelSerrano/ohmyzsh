@@ -40,9 +40,15 @@ _Info sobre atajos git en:_ <https://github.com/ohmyzsh/ohmyzsh/tree/master/plug
     git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-syntax-highlighting
     git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions
 ```
+    git-flow-avh <https://github.com/petervanderdoes/gitflow-avh>
+
+```shell 
+brew install git-flow-avh
+sudo apt-get install git-flow
+```
 
 - Añadir plugins en ~/.zshrc
 
 ```bash
-    plugins=(git z sudo themes zsh-syntax-highlighting zsh-autosuggestions)
+    plugins=(git z sudo themes zsh-syntax-highlighting zsh-autosuggestions git-flow)
 ```
