@@ -31,6 +31,7 @@ _Info sobre atajos git en:_ <https://github.com/ohmyzsh/ohmyzsh/tree/master/plug
 
 - Instalar:
    zsh-syntax-highlighting <https://github.com/zsh-users/zsh-syntax-highlighting>
+
    Instalar zsh-autosuggestions <https://github.com/zsh-users/zsh-autosuggestions>
 
 ```shell 
