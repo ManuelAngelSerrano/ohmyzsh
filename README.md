@@ -20,6 +20,7 @@ Mi configuración de ohmyzsh
 ```
 
 - Añadir básicos plugins en ~/.zshrc <https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins>
+
 _Info sobre atajos git en:_ <https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/git>
 ```bash
     # git para atajos de git 
