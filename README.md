@@ -42,5 +42,5 @@ Mi configuración de ohmyzsh
 - Añadir plugins en ~/.zshrc
 
 ```bash
-    plugins=(git z zsh-autosuggestions sudo themes zsh-syntax-highlighting)
+    plugins=(git z sudo themes zsh-syntax-highlighting zsh-autosuggestions)
 ```
