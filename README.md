@@ -20,7 +20,7 @@ Mi configuración de ohmyzsh
 ```
 
 - Añadir básicos plugins en ~/.zshrc <https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins>
-<https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/git>
+_Info sobre atajos git en:_ <https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/git>
 ```bash
     # git para atajos de git 
     # z para saltar a los directorios más utilizados
@@ -29,18 +29,14 @@ Mi configuración de ohmyzsh
     plugins=(git z sudo themes)
 ```
 
-- Instalar zsh-syntax-highlighting <https://github.com/zsh-users/zsh-syntax-highlighting>
+- Instalar:
+   zsh-syntax-highlighting <https://github.com/zsh-users/zsh-syntax-highlighting>
+   Instalar zsh-autosuggestions <https://github.com/zsh-users/zsh-autosuggestions>
 
 ```shell 
     git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-syntax-highlighting
-```
-
-- Instalar zsh-autosuggestions <https://github.com/zsh-users/zsh-autosuggestions>
-
-```shell 
     git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions
 ```
-
 
 - Añadir plugins en ~/.zshrc
 
