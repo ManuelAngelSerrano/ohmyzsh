@@ -11,13 +11,13 @@ Mi configuración de ohmyzsh
 
 - Cambiar el tema de zsh en ~/.zshrc
 
-  ```
+  ```bash
       ZSH_THEME="simple"
   ```
 
 - Añadir plugins en ~/.zshrc
 
-  ```
+  ```bash
       plugins=(git z sudo themes)
   ```
 
@@ -28,7 +28,7 @@ Mi configuración de ohmyzsh
   ```
 - Añadir plugins en ~/.zshrc
 
-  ```
+  ```bash
       plugins=(git z sudo themes zsh-syntax-highlighting)
   ```
 
