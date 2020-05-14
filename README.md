@@ -9,7 +9,7 @@ Mi configuración de ohmyzsh
     $ sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 ```
 
-- Cambiar el tema de zsh en ~/.zshrc <https://github.com/ohmyzsh/ohmyzsh/wiki/Themes>
+- Cambiar el **tema** de zsh en ~/.zshrc <https://github.com/ohmyzsh/ohmyzsh/wiki/Themes>
 
 ```bash
     # Elegir entre simple, af-magic o agnoster
@@ -19,7 +19,7 @@ Mi configuración de ohmyzsh
     ZSH_THEME="agnoster"
 ```
 
-- Añadir básicos plugins en ~/.zshrc <https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins>
+- Añadir básicos **plugins** en ~/.zshrc <https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins>
 
 _Info sobre atajos git en:_ <https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/git>
 ```bash
@@ -47,7 +47,7 @@ brew install git-flow-avh
 sudo apt-get install git-flow
 ```
 
-- Añadir plugins en ~/.zshrc
+- Añadir **plugins** en ~/.zshrc
 
 ```bash
     plugins=(git z sudo themes zsh-syntax-highlighting zsh-autosuggestions git-flow)
