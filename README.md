@@ -34,11 +34,6 @@ Mi configuración de ohmyzsh
 ```shell 
     git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-syntax-highlighting
 ```
-- Añadir plugins en ~/.zshrc
-
-```bash
-    plugins=(git z sudo themes zsh-syntax-highlighting)
-```
 
 - Instalar zsh-autosuggestions <https://github.com/zsh-users/zsh-autosuggestions>
 
