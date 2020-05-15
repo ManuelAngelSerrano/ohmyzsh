@@ -53,5 +53,5 @@ sudo apt-get install git-flow
     plugins=(git z sudo themes zsh-syntax-highlighting zsh-autosuggestions git-flow)
 ```
 
-- Consultar el documento añadido sobre git-flow <https://github.com/ManuelAngelSerrano/ohmyzsh/blob/master/gitflow-breakdown.pdf> from <https://gist.github.com/ManuelAngelSerrano/fd4e3dd6b38e770afc39b1d3fc2225fd>
+- Consultar el documento añadido sobre git-flow [gitglow-breakdown.pdf](https://github.com/ManuelAngelSerrano/ohmyzsh/blob/master/gitflow-breakdown.pdf) from <https://gist.github.com/ManuelAngelSerrano/fd4e3dd6b38e770afc39b1d3fc2225fd>
 
