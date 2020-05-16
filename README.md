@@ -52,6 +52,7 @@ _Info sobre atajos git en:_ <https://github.com/ohmyzsh/ohmyzsh/tree/master/plug
 ```shell 
 brew install git-flow-avh
 sudo apt-get install git-flow
+yay gitflow-avh
 ```
 
 - Añadir **plugins** en ~/.zshrc
