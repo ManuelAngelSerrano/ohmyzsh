@@ -19,9 +19,10 @@ Mi configuración de ohmyzsh
     ZSH_THEME="agnoster"
     ZSH_THEME="powerlevel10k/powerlevel10k"
 ```
-- Si quieres usar el tema agnoster, instala las fuentes Meslo Dotted (Meslo LG L...) de <https://github.com/powerline/fonts> o Meslo_Nerf_Font (Añadidas la fuentes al repositorio)
-- Si quieres usar el tema PowerLevel10k,instala las fuentes Meslo_Nerf_Font de <https://github.com/romkatv/powerlevel10k#meslo-nerd-font-patched-for-powerlevel10k> (Añadidas la fuentes al repositorio)
-- Para usar powerlevel10k debes instalarlo antes <https://github.com/romkatv/powerlevel10k>
+- Si quieres usar el tema **agnoster**, instala las fuentes **Meslo Dotted (Meslo LG L...)** de <https://github.com/powerline/fonts> o **Meslo_Nerf_Font** (Añadidas la fuentes al repositorio)
+- Si quieres usar el tema **PowerLevel10k**, instala las fuentes **Meslo_Nerf_Font** de <https://github.com/romkatv/powerlevel10k#meslo-nerd-font-patched-for-powerlevel10k> (Añadidas la fuentes al repositorio)
+- Para usar **powerlevel10k** debes instalarlo antes <https://github.com/romkatv/powerlevel10k>
+
 ~~~shell
     git clone --depth=1 https://github.com/romkatv/powerlevel10k.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/themes/powerlevel10k
 ~~~
