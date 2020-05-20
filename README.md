@@ -45,7 +45,8 @@ git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-m
 # z para saltar a los directorios más utilizados
 # sudo para poner sudo delante de la linea de comandos actual con <ESC><ESC>
 # themes para cambiar el tema sobre la marcha (theme y lsthemes)
-#plugins=(git z sudo themes)
+# plugins básicos
+# plugins=(git z sudo themes)
 plugins=(git z sudo themes zsh-syntax-highlighting zsh-autosuggestions)
 ```
 - **[Opcional]** Instalar **git-flow-avh** <https://github.com/petervanderdoes/gitflow-avh>
