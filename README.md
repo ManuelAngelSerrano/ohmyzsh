@@ -48,7 +48,7 @@ git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-m
 #plugins=(git z sudo themes)
 plugins=(git z sudo themes zsh-syntax-highlighting zsh-autosuggestions)
 ```
-- **[Opcional] **Instalar **git-flow-avh** <https://github.com/petervanderdoes/gitflow-avh>
+- **[Opcional]** Instalar **git-flow-avh** <https://github.com/petervanderdoes/gitflow-avh>
 
 ```shell 
 brew install git-flow-avh
