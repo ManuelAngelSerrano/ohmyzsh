@@ -27,6 +27,7 @@ ZSH_THEME="powerlevel10k/powerlevel10k"
     + **Meslo_Nerd_Font** de <https://github.com/romkatv/powerlevel10k#meslo-nerd-font-patched-for-powerlevel10k> **Recomendada**
     + **Meslo Dotted (Meslo LG L...)** de <https://github.com/powerline/fonts> 
     + Si usas **powerlevel10k** debes poner **"MesloLGS NF"** en **Visual Studio Code** como terminal font family
+    + Se puede descargar **Iosevka Nerd Font Mono** de <https://www.nerdfonts.com/font-downloads>
 
 - Instalar:
 
